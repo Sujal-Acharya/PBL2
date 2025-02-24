@@ -21,3 +21,6 @@ State – Location’s state
 City – Location’s city                                                        
 
 This project will utilize machine learning techniques to analyze pollutant levels and predict AQI, helping in air quality assessment and environmental monitoring.
+
+Tried to use XGBoost algorithm because it works well on structured data and handles missing values.
+But for our main model, CNN-LSTM is used as LSTM is great for Time Series forecasting as AQI fluctuates seasonally and CNN extracts patterns and improve feature learning
