@@ -1,7 +1,7 @@
  AIR QUALITY PREDICTION PROJECT
  
  PROJECT OVERVIEW
-This project aims to predict the Air Quality Index (AQI) using key pollutant concentrations, including:
+This project aims to predict the Air Quality Index (AQI) and health impact score using key pollutant concentrations, including:
 
 -CO (Carbon Monoxide)                                                                                 
 -NO₂ (Nitrogen Dioxide)                                                                          
